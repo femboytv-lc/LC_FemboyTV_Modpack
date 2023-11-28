@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.7.5",
+  "version_number": "1.7.6",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -12,7 +12,7 @@
     "AllToasters-SpectateEnemies-1.2.0",
     "Giltong-LethalCompanyDRP-1.2.0",
     "Drakorle-MoreItems-1.0.1",
-    "Renegades-WalkieUse-1.2.2",
+    "Renegades-WalkieUse-1.2.3",
     "Suskitech-AlwaysHearActiveWalkies-1.4.1",
     "FlipMods-LetMeLookDown-1.0.1",
     "5Bit-FPSSpectate-1.0.1",
