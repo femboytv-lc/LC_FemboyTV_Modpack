@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.7.6",
+  "version_number": "1.7.7",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -25,6 +25,7 @@
     "tinyhoot-ShipLobby-1.0.1",
     "femboytv-LethalPosters-1.0.3",
     "femboytv-FemboysAndFirearms-0.0.5",
-    "femboytv-LethalReynolds-0.0.1"
+    "femboytv-LethalReynolds-0.0.1",
+    "Bibendi-AEIOUCompany-1.0.2"
   ]
 }
