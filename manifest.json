@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.8.3",
+  "version_number": "1.8.4",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -23,9 +23,10 @@
     "Zduniusz-24HourClock-1.0.0",
     "alexanderjoe-LC_Symphony-1.1.0",
     "tinyhoot-ShipLobby-1.0.2",
+    "Bibendi-AEIOUCompany-1.0.2",
     "femboytv-LethalPosters-1.0.4",
-    "femboytv-FemboysAndFirearms-0.0.7",
+    "femboytv-FemboysAndFirearms-1.0.0",
     "femboytv-LethalReynolds-0.0.2",
-    "Bibendi-AEIOUCompany-1.0.2"
+    "femboytv-BoykisserPosters-0.0.1"
   ]
 }
