@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.9.0",
+  "version_number": "1.9.3",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -27,6 +27,7 @@
     "femboytv-LethalPosters-1.0.6",
     "femboytv-FemboysAndFirearms-1.0.1",
     "femboytv-LethalReynolds-0.0.3",
-    "femboytv-BoykisserPosters-0.0.2"
+    "femboytv-BoykisserPosters-0.0.2",
+    "femboytv-DeepRockPosters-0.0.1"
   ]
 }
