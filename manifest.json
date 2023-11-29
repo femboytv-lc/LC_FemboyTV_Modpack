@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.8.5",
+  "version_number": "1.9.0",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -24,9 +24,9 @@
     "alexanderjoe-LC_Symphony-1.1.0",
     "tinyhoot-ShipLobby-1.0.2",
     "Bibendi-AEIOUCompany-1.0.2",
-    "femboytv-LethalPosters-1.0.4",
-    "femboytv-FemboysAndFirearms-1.0.0",
-    "femboytv-LethalReynolds-0.0.2",
-    "femboytv-BoykisserPosters-0.0.1"
+    "femboytv-LethalPosters-1.0.6",
+    "femboytv-FemboysAndFirearms-1.0.1",
+    "femboytv-LethalReynolds-0.0.3",
+    "femboytv-BoykisserPosters-0.0.2"
   ]
 }
