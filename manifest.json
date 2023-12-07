@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.14.0",
+  "version_number": "1.16.0",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -16,7 +16,7 @@
     "AllToasters-SpectateEnemies-1.3.0",
     "Bibendi-AEIOUCompany-1.1.3",
     "Drakorle-MoreItems-1.0.1",
-    "Evaisa-LethalThings-0.4.0",
+    "Evaisa-LethalThings-0.5.0",
     "FlipMods-LetMeLookDown-1.0.1",
     "FyreBytes-TerminalColors-1.0.2",
     "Giltong-LethalCompanyDRP-1.3.0",
@@ -25,10 +25,10 @@
     "LethalPlugging-LethalVibrations-0.0.3",
     "Midge-PushCompany-1.2.0",
     "EliteMasterEric-Coroner-1.1.0",
-    "Owen3H-IntroTweaks-1.2.1",
+    "Owen3H-IntroTweaks-1.2.2",
     "Renegades-FlashlightToggle-1.3.1",
     "Renegades-WalkieUse-1.2.3",
-    "Sligili-More_Emotes-1.0.0",
+    "Sligili-More_Emotes-1.1.0",
     "Suskitech-AlwaysHearActiveWalkies-1.4.2",
     "Zduniusz-24HourClock-1.0.0",
     "Zduniusz-LBtoKG-1.0.0",
@@ -37,8 +37,10 @@
     "taffyko-NameplateTweaks-1.0.2",
     "tinyhoot-ShipLobby-1.0.2",
     "tinyhoot-ShipLoot-1.0.0",
-    "x753-Mimics-1.0.3",
-    "x753-More_Suits-1.3.2",
-    "xCeezy-LethalEscape-0.7.3"
+    "x753-Mimics-1.1.1",
+    "x753-More_Suits-1.3.3",
+    "xCeezy-LethalEscape-0.7.3",
+    "Evaisa-LethalLib-0.5.1",
+    "EladNLG-EladsHUD-1.1.0"
   ]
 }
