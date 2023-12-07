@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "1.17.0",
+  "version_number": "1.18.0",
   "website_url": "https://femboy.tv",
   "description": ":3",
   "dependencies": [
@@ -42,7 +42,6 @@
     "xCeezy-LethalEscape-0.7.3",
     "Evaisa-LethalLib-0.5.1",
     "EladNLG-EladsHUD-1.1.0",
-    "RugbugRedfern-Skinwalkers-1.0.3",
     "EliteMasterEric-SlimeTamingFix-1.0.0",
     "MonAmiral-PlayerDogModel-0.1.0",
     "Ozone-Disregard_Early_Voting-1.0.1",
