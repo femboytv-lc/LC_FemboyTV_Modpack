@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "2.0.0",
+  "version_number": "2.0.1",
   "website_url": "https://femboy.tv",
   "description": "COMPATIBLE WITH v45 :3",
   "dependencies": [
@@ -9,6 +9,7 @@
     "femboytv-BoykisserPosters-1.2.1",
     "femboytv-DeepRockPosters-1.2.1",
     "femboytv-XeniaPosters-1.2.1",
-    "femboytv-LethalReynolds-1.2.0"
+    "femboytv-LethalReynolds-1.2.0",
+    "LethalPlugging-LethalVibrations-0.0.3"
   ]
 }
