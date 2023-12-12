@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "2.1.0",
+  "version_number": "2.1.1",
   "website_url": "https://femboy.tv",
   "description": "COMPATIBLE WITH v45 :3",
   "dependencies": [
@@ -19,6 +19,7 @@
     "EladNLG-EladsHUD-1.1.0",
     "EliteMasterEric-Coroner-1.1.0",
     "EliteMasterEric-SlimeTamingFix-1.0.1",
+    "Evaisa-LethalLib-0.6.2",
     "Evaisa-LethalThings-0.7.1",
     "FlipMods-LetMeLookDown-1.0.1",
     "Krayken-DynamicDeadline-1.1.0",
