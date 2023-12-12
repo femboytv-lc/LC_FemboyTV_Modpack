@@ -1,6 +1,6 @@
 {
   "name": "femboytv",
-  "version_number": "2.0.4",
+  "version_number": "2.0.5",
   "website_url": "https://femboy.tv",
   "description": "COMPATIBLE WITH v45 :3",
   "dependencies": [
@@ -11,11 +11,12 @@
     "femboytv-LethalReynolds-1.2.0",
     "femboytv-XeniaPosters-1.2.1",
     "LethalPlugging-LethalVibrations-0.0.5",
+    "2018-LC_API-2.1.2",
     "BlueAmulet-LogNeuter-1.0.2",
     "EliteMasterEric-Coroner-1.1.0",
     "Krayken-DynamicDeadline-1.1.0",
     "Sv_Matt-HideModList-1.0.1",
     "notnotnotswipez-MoreCompany-1.7.1",
-    "xCeezy-LethalEscape-0.7.4"
+    "xCeezy-LethalEscape-0.7.6"
   ]
 }
