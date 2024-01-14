@@ -13,7 +13,7 @@ target = "./BepInEx"
 [package]
 namespace = "femboytv"
 name = "femboytv"
-versionNumber = "2.6.0"
+versionNumber = "2.6.1"
 description = "best femboy modpack :3"
 websiteUrl = "https://femboy.tv"
 containsNsfwContent = false
@@ -26,6 +26,7 @@ communities = [ "lethal-company", ]
 lethal-company = [ "bepinex", "modpacks", ]
 
 [package.dependencies]
+# Our poster mods
 femboytv-BoykisserPosters = "1.2.1"
 femboytv-DeepRockPosters = "1.2.1"
 femboytv-FemboyTVPosters = "1.2.0"
@@ -33,8 +34,10 @@ femboytv-FemboysAndFirearms = "1.2.1"
 femboytv-LethalGosling = "1.0.1"
 femboytv-LethalReynolds = "1.2.0"
 femboytv-XeniaPosters = "1.2.1"
+# Our haptics mod
 LethalPlugging-LethalVibrations = "0.0.8"
 LethalPlugging-LethalHaptics = "0.0.5"
+# Other mods
 2018-LC_API = "3.3.2"
 AllToasters-SpectateEnemies = "2.2.1"
 BeansDev-Neofetch = "1.0.5"
@@ -44,7 +47,7 @@ Drakorle-MoreItems = "1.0.2"
 EladNLG-EladsHUD = "1.2.1"
 EliteMasterEric-Coroner = "1.5.3"
 EliteMasterEric-SlimeTamingFix = "1.0.2"
-Evaisa-LethalLib = "0.12.1"
+Evaisa-LethalLib = "0.13.0"
 Evaisa-LethalThings = "0.9.4"
 FlipMods-LetMeLookDown = "1.0.1"
 Krayken-DynamicDeadline = "1.2.2"
@@ -59,7 +62,7 @@ Ozone-BepInUtils = "1.2.1"
 Ozone-Disregard_Early_Voting = "1.0.2"
 Renegades-FlashlightToggle = "1.5.0"
 Renegades-WalkieUse = "1.4.0"
-Rune580-LethalCompany_InputUtils = "0.4.4"
+Rune580-LethalCompany_InputUtils = "0.5.5"
 Sligili-More_Emotes = "1.3.3"
 Suskitech-AlwaysHearActiveWalkies = "1.4.4"
 Sv_Matt-HideModList = "1.0.1"
