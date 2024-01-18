@@ -13,7 +13,7 @@ target = "./BepInEx"
 [package]
 namespace = "femboytv"
 name = "femboytv"
-versionNumber = "2.6.3"
+versionNumber = "2.6.4"
 description = "The best femboy modpack :3"
 websiteUrl = "https://femboy.tv"
 containsNsfwContent = false
