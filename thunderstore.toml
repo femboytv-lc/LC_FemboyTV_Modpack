@@ -13,7 +13,7 @@ target = "./BepInEx"
 [package]
 namespace = "femboytv"
 name = "femboytv"
-versionNumber = "2.6.2"
+versionNumber = "2.6.3"
 description = "The best femboy modpack :3"
 websiteUrl = "https://femboy.tv"
 containsNsfwContent = false
@@ -27,7 +27,7 @@ lethal-company = [ "bepinex", "modpacks", ]
 
 [package.dependencies]
 femboytv-FemboyTV_Posters = "3.0.0"
-femboytv-FemboyTV_QoL = "3.0.0"
+femboytv-FemboyTV_QoL = "3.0.1"
 femboytv-FemboyTV_Suits = "3.0.0"
 # Our haptics mod
 LethalPlugging-LethalVibrations = "0.0.8"
@@ -53,11 +53,8 @@ NotAtomicBomb-TerminalApi = "1.5.0"
 NotAtomicBomb-Terminal_History = "1.0.4"
 Ozone-BepInUtils = "1.2.1"
 Ozone-Disregard_Early_Voting = "1.0.2"
-Renegades-FlashlightToggle = "1.5.0"
-Renegades-WalkieUse = "1.4.0"
 Rune580-LethalCompany_InputUtils = "0.5.5"
 Sligili-More_Emotes = "1.3.3"
-Suskitech-AlwaysHearActiveWalkies = "1.4.4"
 Sv_Matt-HideModList = "1.0.1"
 TwinDimensionalProductions-CoilHeadStare = "1.0.3"
 kRYstall9-FastSwitchPlayerViewInRadar = "1.3.2"
